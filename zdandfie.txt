@@ -1,0 +1,2 @@
+z tablic dynamicznych o liczbie elementu i elementow podanych przez uzytkownika
+w kazdej z tablic znajdz maks element i wypisz ich sume
